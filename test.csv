@@ -7,46 +7,46 @@ CustomerID,Genre,Age,passengers,hurt,scene,CERTIFICATE,FRAUD
 6,Female,22,4,3,simulated,b1 temp,driver cert
 7,Female,35,4,2,real,b1,driver cert
 8,Female,23,3,2,real,b1 temp,driver cert
-9,Female,25,10,8,stimulated,b2,d
-10,Male,30,10,6,real,b2,
-11,Female,15,7,5,real,b1,
-12,Male,47,2,2,stimulated,b2,
-13,Male,85,8,6,stimulated,b1,
-14,Male,20,4,3,stimulated,b1,
-15,Female,47,6,2,stimulated,b1 temp,
-16,Male,58,8,7,real,b1 temp,
-17,Male,13,2,1,real,b2,
-18,Female,25,6,6,stimulated,b2,
-19,Male,18,5,2,real,b2,
-20,Male,27,4,2,real,b1 temp,
-21,Male,60,4,1,stimulated,b2,
-22,Female,11,6,6,stimulated,b1,
-23,Female,19,8,5,real,b1,
-24,Female,8,2,1,stimulated,b1,
-25,Male,45,1,0,real,b1 temp,
-26,Female,37,5,4,stimulated,b2,
-27,Male,56,6,2,stimulated,b2,
-28,Male,65,7,4,real,b1 temp,
-29,Male,17,2,1,real,b2,
-30,Male,9,8,7,real,b2,
-31,Male,29,4,3,real,b2,
-32,Male,33,9,5,real,b1,
-33,Female,55,1,1,stimulated,b1,
-34,Female,44,3,1,real,b1 temp,
-35,Female,22,5,2,stimulated,b2,
-36,Female,11,6,4,real,b1,
-37,Female,47,7,4,real,b1,
-38,Male,58,5,4,real,b1 temp,
-39,Male,67,3,3,real,b2,
-40,Male,5,1,0,real,b1 ,
-41,Male,20,5,1,real,b1 temp,
-42,Male,40,9,7,stimulated,b1 temp,
-43,Male,50,2,1,stimulated,b1 temp,
-44,Male,10,5,4,real,b1,
-45,Female,57,8,2,real,b2,
-46,Male,69,3,3,stimulated,b2,
-47,Female,12,7,4,stimulated,b1 temp,
-48,Male,43,1,1,stimulated,b1,
-49,Male,60,4,3,real,b1 temp,
-50,Female,45,3,1,stimulated,b2 ,
-51,Male,15,8,6,stimulated,b2,
+9,Female,25,10,8,stimulated,b2,past damage
+10,Male,30,10,6,real,b2,driver cert problem
+11,Female,15,7,5,real,b1,driver cert problem
+12,Male,47,2,2,stimulated,b2,driver cert problem
+13,Male,85,8,6,stimulated,b1,past damage
+14,Male,20,4,3,stimulated,b1,driver cert
+15,Female,47,6,2,stimulated,b1 temp,driver exchange
+16,Male,58,8,7,real,b1 temp,driver exchange
+17,Male,13,2,1,real,b2,past damage
+18,Female,25,6,6,stimulated,b2,driver exchange
+19,Male,18,5,2,real,b2,driver cert
+20,Male,27,4,2,real,b1 temp,past damage
+21,Male,60,4,1,stimulated,b2,driver exchange
+22,Female,11,6,6,stimulated,b1,driver cert
+23,Female,19,8,5,real,b1,past damage
+24,Female,8,2,1,stimulated,b1,driver cert
+25,Male,45,1,0,real,b1 temp,driver cert problem
+26,Female,37,5,4,stimulated,b2,past damage
+27,Male,56,6,2,stimulated,b2,past damage
+28,Male,65,7,4,real,b1 temp,past damage
+29,Male,17,2,1,real,b2,driver cert problem
+30,Male,9,8,7,real,b2,driver exchange
+31,Male,29,4,3,real,b2,driver cert
+32,Male,33,9,5,real,b1,driver cert problem
+33,Female,55,1,1,stimulated,b1,driver cert
+34,Female,44,3,1,real,b1 temp,driver exchange
+35,Female,22,5,2,stimulated,b2,driver exchange
+36,Female,11,6,4,real,b1,driver cert problem
+37,Female,47,7,4,real,b1,driver cert problem
+38,Male,58,5,4,real,b1 temp,driver exchange
+39,Male,67,3,3,real,b2,driver cert problem
+40,Male,5,1,0,real,b1 ,driver exchange
+41,Male,20,5,1,real,b1 temp,driver cert problem
+42,Male,40,9,7,stimulated,b1 temp,driver cert problem
+43,Male,50,2,1,stimulated,b1 temp,driver exchange
+44,Male,10,5,4,real,b1,driver exchange
+45,Female,57,8,2,real,b2,driver exchange
+46,Male,69,3,3,stimulated,b2,driver cert problem
+47,Female,12,7,4,stimulated,b1 temp,past damage
+48,Male,43,1,1,stimulated,b1,past damage
+49,Male,60,4,3,real,b1 temp,past damage
+50,Female,45,3,1,stimulated,b2 ,driver exchange
+51,Male,15,8,6,stimulated,b2,past damage
