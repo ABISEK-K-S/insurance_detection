@@ -1,5 +1,6 @@
 
 rm(list=ls())
+# reading the file
 dataset0=read.csv("test.csv",header=T)
 dataset=dataset0[1:5]
 
